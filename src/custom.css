@@ -1,0 +1,13 @@
+.subtitle {
+    font-size: 12px;
+    color:#ccc;
+}
+
+.convert-result {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.result-container {
+    margin-top: 2em;
+}
